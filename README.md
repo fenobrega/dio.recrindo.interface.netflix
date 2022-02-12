@@ -1,6 +1,6 @@
 # Recriando interface do principal site de streaming :tv:
 
-# ![netflix](C:\Users\ferna\Downloads\netflix.png)
+# ![](C:\Users\ferna\Downloads\netflix.png)
 
 - HTML5
 - CSS3
