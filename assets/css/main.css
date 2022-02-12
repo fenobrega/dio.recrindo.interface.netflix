@@ -5,6 +5,7 @@
   --vermelho: #a60303;
   --marron: #260101;
   --roboto: 'Roboto', sans-serif;
+  --adoteflix: 'Bangers', cursive;
 }
 
 * {
@@ -27,8 +28,10 @@ header .container-principal {
 
 header .nav-logo {
   margin-left: 10px;
+  font-family: var(--adoteflix);
   font-size: 40px;
   color: var(--marron);
+  text-shadow: 2px 2px 2px var(--rosaclaro);
 }
 
 header nav a {
@@ -63,13 +66,15 @@ main .capa {
 .container h3 {
   color: var(--rosa);
   font-size: 40px;
+  text-shadow: 2px 2px 3px var(--bordo);
 }
 
-.container p {
+.container .texto-capa {
   color: var(--rosa);
   font-size: 18px;
   text-align: justify;
   margin-right: 10px;
+  text-shadow: 2px 2px 3px var(--bordo);
 }
 
 .sobre {
@@ -98,6 +103,7 @@ section .sobre .container {
 
 .sobre p {
   color: var(--marron);
+  font-size: 18px;
 }
 
 .botao {
