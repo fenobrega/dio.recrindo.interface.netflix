@@ -13,3 +13,4 @@ Nesse aprendi como estruturar um layout, técnicas de CSS3 com containers e vari
 
 - fazer uma nova roupagem :tshirt:
 - dar vida aos botões :play_or_pause_button:
+# dio.recrindo.interface.netflix
