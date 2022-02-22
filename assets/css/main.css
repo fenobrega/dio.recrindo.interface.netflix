@@ -47,8 +47,7 @@ header nav a:hover {
 main .capa {
   font-size: 16px;
   color: var(--rosaclaro);
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) 100%),
-    url(/assets/img/capa-cachorro1.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) 100%), url(../img/capacachorro.jpg);
 
   height: 400px;
   background-size: cover;
